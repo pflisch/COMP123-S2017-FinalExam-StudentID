@@ -37,7 +37,7 @@
             // 
             this.Timer.Enabled = true;
             this.Timer.Interval = 3000;
-            this.Timer.Tick += new System.EventHandler(this.timer1_Tick);
+            this.Timer.Tick += new System.EventHandler(this.Timer_Tick);
             // 
             // label1
             // 
