@@ -5,11 +5,11 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 /*
- * Name:
- * Date:
- * StudentID:
- * Description:
- * Version:
+ * Name: Priscylla Flisch
+ * Date: 17th Aug   
+ * StudentID: 300931589
+ * Description: Pick the Highest Card
+ * Version: 0.01 - Final Exam
  */
 
 namespace COMP123_S2017_FinalExam_StudentID
